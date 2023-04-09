@@ -1,0 +1,13 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="lightblue"  stroke="black"/>
+  <circle cx="150" cy="100" r="90" fill="blue"  stroke="black"/>
+  <text x="90" y="140" font-family="timeromaw" font-size="130" 
+    fill="white" stroke="black" stroke-width="2">
+    JS
+  </text>
+  <text x="3" y="190" font-family="arial" font-size="50" 
+    fill="white" stroke="black" >JofranSenpai</text>
+</svg>
